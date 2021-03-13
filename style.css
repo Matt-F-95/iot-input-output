@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+.canvas{
+    position: absolute;
+    height: 100vw;
+    width: 100vw;
+    top:0;
+    left: 0;
+    background: linear-gradient(#25364f,#47d1a5, #9bc4ff);
+    background-repeat: none;
+    background-size: 100%;
+}
+h1{
+    margin: auto;
+    margin-top: 4vw;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 5vw;
+    text-shadow:0.5px 1px 1px black;
+}
+.youtubeVideo{
+    margin: auto;
+    text-align: center;
+}
+.listItems{
+    margin: auto;
+    text-align: center;
+}
+ul li{
+    list-style: circle;
+}
+.collapsible-body{
+    background-color: white;
+}
